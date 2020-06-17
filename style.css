@@ -123,3 +123,50 @@ h4 {
 }
 
 /* common section design end here */
+/* signup area design start from here */
+.signup-area {
+    background: #f0f0f0;
+    padding: 65px 0;
+}
+
+.signup-design h3 {
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    color: #333333;
+    padding-bottom: 60px;
+}
+
+.form-control {
+    border: none;
+    background: transparent;
+    padding-left: 0;
+}
+
+.input-group {
+    border-bottom: 1px solid;
+}
+
+.input-group-append span {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+/* its for button design */
+.button-design a {
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+    padding: 16px 35px;
+    cursor: pointer;
+    color: #626262;
+    background: #ffffff;
+    border: 1px solid #626262;
+    text-decoration: none;
+    border-radius: 1px;
+}
+
+.button-design {
+    padding: 80px 55px 80px 0px;
+}
+
+/* signup area design end here */
