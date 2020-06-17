@@ -44,3 +44,82 @@ html {
 }
 
 /* header part design end */
+/* photodiary part design start */
+#photodiary-part {
+    padding: 42px 65px 25px 150px;
+}
+
+.photodiary-design h5,
+h4 {
+    color: #b4ad9e;
+    font-size: 15px;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+.photodiary-design h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    color: #626262;
+    padding: 8px 0 15px 0;
+}
+
+.photodiary-design p {
+    font-size: 15px;
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-weight: normal;
+    line-height: 26px;
+    width: 90%;
+    padding-bottom: 35px;
+}
+
+.photodiary-design {
+    padding-left: 55px;
+    padding-bottom: 35px;
+}
+/* photodiary part design end */
+/* common section design start from here */
+#First-com-section {
+    padding: 55px 65px 50px 150px;
+}
+
+#common-section {
+    padding: 55px 65px 50px 150px;
+}
+
+.common-design h4 {
+    color: #b4ad9e;
+    font-size: 13px;
+    font-family: 'Playfair Display', serif;
+    text-transform: uppercase;
+    font-weight: normal;
+    padding-top: 25px;
+}
+
+.common-design h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    color: #626262;
+    padding: 10px 0 20px 0;
+}
+
+.common-design p {
+    font-size: 15px;
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-weight: normal;
+    line-height: 26px;
+    width: 92%;
+}
+
+.custom-left {
+    padding-left: 55px;
+}
+
+.custom-right {
+    padding-right: 55px;
+}
+
+/* common section design end here */
