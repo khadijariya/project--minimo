@@ -1,22 +1,219 @@
 /*// Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
-  
-}
+    .navbar-toggler {
+        border: none;
+    }
 
+    .navbar-nav {
+        text-align: right;
+        padding-top: 15px;
+    }
+
+    .header-area {
+        padding: 12px 0 30px 0;
+    }
+
+    #photodiary-part {
+        padding: 10px 0px 0px 22px;
+    }
+
+    .photodiary-design {
+        padding-left: 0px;
+    }
+
+    .photodiary-design h3 {
+        font-size: 20px;
+    }
+
+    .photodiary-design p {
+        font-size: 14px;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    #First-com-section {
+        padding: 10px 0 0 15px;
+    }
+
+    #First-com-section h3 {
+        font-size: 20px;
+    }
+
+    #common-section {
+        padding: 15px 0 30px 15px;
+    }
+
+    .common-design h3 {
+        font-size: 22px;
+        padding: 10px 0 5px 0;
+    }
+
+    .common-design p {
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .custom-right {
+        padding-right: 15px;
+    }
+
+    .custom-left {
+        padding-left: 0;
+    }
+
+    .signup-design h3 {
+        font-size: 19px;
+    }
+
+    .input-group {
+        width: 150%;
+        transform: translateX(-18%);
+    }
+
+    .button-design {
+        padding: 55px 15px 40px 0px;
+    }
+
+    .footer-right-design {
+        text-align: center !important;
+        font-size: 30px;
+    }
+
+    .footer-left-design {
+        text-align: center;
+        margin-bottom: -15px;
+    }
+
+    .author-design p {
+        font-size: 10px;
+        padding-top: 8px;
+    }
+}
 /*// Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767.98px) {
-   
-}
+    .navbar-toggler {
+        border: none;
+    }
 
+    .navbar-nav {
+        text-align: right;
+        padding-top: 15px;
+    }
+
+    .header-area {
+        padding: 40px 0 30px 0;
+    }
+
+    #photodiary-part {
+        padding: 30px 0px 0px 50px;
+    }
+
+    .photodiary-design {
+        padding-left: 0px;
+    }
+
+    .photodiary-design h3 {
+        font-size: 27px;
+    }
+
+    .photodiary-design p {
+        font-size: 14px;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    #First-com-section {
+        padding: 15px 0 0px 55px;
+    }
+
+    #common-section {
+        padding: 35px 0 30px 55px;
+    }
+
+    .custom-right {
+        padding-left: 0;
+    }
+
+    .custom-left {
+        padding-left: 0;
+    }
+
+    .signup-design h3 {
+        font-size: 22px;
+        padding-bottom: 30px;
+    }
+
+    .button-design {
+        padding: 55px 15px 40px 0px;
+    }
+}
 /*// Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 991.98px) {
-    
-}
+    .navbar-toggler {
+        border: none;
+    }
 
+    .navbar-nav {
+        text-align: right;
+        padding-top: 15px;
+    }
+
+    #First-com-section {
+        padding: 15px 45px 0px 144px;
+    }
+
+    #First-com-section h3 {
+        font-size: 18px;
+    }
+
+    .common-design h3 {
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .photodiary-design {
+        padding-left: 0px;
+    }
+
+    .custom-left {
+        padding-left: 0;
+    }
+
+    .custom-right {
+        padding-right: 0;
+    }
+
+    .common-design p {
+        width: 112%;
+    }
+
+    .header-area {
+        padding: 40px 0 30px 0;
+    }
+
+    .button-design {
+        padding: 55px 35px 40px 0px;
+    }
+
+    .button-design a {
+        padding: 20px 90px;
+    }
+
+}
 /*// Large devices (desktops, 992px and up)*/
 @media (min-width: 992px) and (max-width: 1199.98px) {
+    #First-com-section h3 {
+        font-size: 29px;
+        text-align: center;
+    }
 
+    .common-design h3 {
+        font-size: 27px;
+    }
+
+    #First-com-section {
+        padding: 25px 65px 0px 150px;
+    }
 }
-
 /*// Extra large devices (large desktops, 1200px and up)*/
 @media (min-width: 1200px) {}
