@@ -1,10 +1,46 @@
-body {
+ody {
     margin: 0;
     padding: 0;
-   
 }
 
 html {
     scroll-behavior: smooth;
 }
 
+/* header part design start */
+.header-area {
+    padding: 40px 0;
+}
+
+.custom-bg {
+    background: #ffffff;
+}
+
+/* navbar design start */
+.custom-logo {
+    font-size: 28px;
+    font-family: 'Playfair Display', serif;
+    color: #000000 !important;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-weight: normal;
+}
+
+.custom-menu ul li {
+    padding-left: 80px;
+}
+
+.custom-menu ul li a {
+    text-transform: uppercase;
+    font-size: 14px;
+    font-family: 'Playfair Display', serif;
+    font-weight: normal;
+    color: #626262 !important;
+}
+
+/* banner design start */
+.banner-design {
+    padding-top: 35px;
+}
+
+/* header part design end */
